@@ -1,0 +1,20 @@
+a{
+	text-decoration:none;
+	color:#05116791;
+}
+a:hover{
+	text-decoration:none;
+	color:#d84b419c;
+}
+body{
+	background-color:beige;
+	font-family:Ariel,Helvetica,"sans-serif";
+	text-align:center;
+}
+footer{
+	margin-top:2rem;
+	margin-bottom:2rem;
+}
+h2{
+	color:#1930829e;
+}
